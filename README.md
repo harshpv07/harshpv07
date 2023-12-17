@@ -57,6 +57,6 @@
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+  
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshpv07&show_icons=true&hide=[%22issues%22])
