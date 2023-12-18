@@ -44,18 +44,17 @@
 [![My Skills](https://skillicons.dev/icons?i=react,flask,django,pytorch,tensorflow,ansible,aws,bootstrap,docker,git,nodejs,postmanredis,sqlite,selenium)](https://skillicons.dev)
  
 ## Projects
- * ABC
- * XYZ
- * GAH
+ * Clarity - AI-powered assistant that takes the complexity out of creating a knowledge base for sales professionals. This cutting-edge language model (LLM) driven bot is designed with simplicity in mind, allowing users to effortlessly build a comprehensive knowledge repository without the need for extensive technical expertise.
+ * NetBot - AI-powered assistant to automatically deploy network policies without the need for a centralized control plane. 
  
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Breaking into SWE intern roles. 
+ * Experimenting with LLMs....
 
 
  
-## Other Stuff
+## Resume
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
   
 
