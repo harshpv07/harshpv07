@@ -23,7 +23,7 @@
 		return Urbana_Illinois()
 	
 	def Ambitions():
-		Security_Software_Engineer()
+		AI SWE()
 		Own_Porsche_911()
 		# Assume 10 more awesome ambitions here  ;)
 	
