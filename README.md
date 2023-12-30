@@ -54,7 +54,7 @@
 
  
 ## Resume
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1XPe7PVMuqj27RQDNapE6O26NmyLAJtQD/view?usp=sharing)
   
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshpv07&show_icons=true&hide=[%22issues%22])
